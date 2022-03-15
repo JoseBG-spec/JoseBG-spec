@@ -1,6 +1,8 @@
 
    
-## Welcome to my page <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome to my page <img src="https://github.com/JoseBG-spec/JoseBG-spec/tree/main/Assets/Scott.gif!" width="24px">
+
+[Scott](https://user-images.githubusercontent.com/61696362/158311296-d4c89352-b318-4f0d-9101-8563eba9f75e.gif)
 
 ### Hello! I'm José Antonio Berrón Gutiérrez a Computer Science Student at Tec CCM Passionate about video games, programming and enjoy little quality of life proyects 
 
