@@ -1,6 +1,7 @@
 
    
-## Welcome to my page [Scott](https://user-images.githubusercontent.com/61696362/158311296-d4c89352-b318-4f0d-9101-8563eba9f75e.gif)
+## Welcome to my page
+
 
 ### Hello! I'm José Antonio Berrón Gutiérrez a Computer Science Student at Tec CCM Passionate about video games, programming and enjoy little quality of life proyects 🤓
 
@@ -10,7 +11,8 @@
 [![GitHub Badge](https://img.shields.io/badge/-JoseBG--spec-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/JoseBG-spec/)](https://github.com/JoseBG-spec/)
 <!---[![Linkedin Badge](https://img.shields.io/badge/-AldoPC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldopc/)](https://www.linkedin.com/in/aldopc/)--->
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/jQ651dzYNOPmwmtrrG/giphy.gif" />
+<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/66oXsEkCnsl3Sd2vzo/giphy.gif" />--->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/61696362/158323106-520463a5-aeb3-4aa1-8fc9-52423afcf735.gif" width="500"/>
   
 ### Known Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
